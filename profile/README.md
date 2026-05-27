@@ -1,5 +1,3 @@
-# szamowski-dev
-
 <p align="center">
   <strong>Native software, developer tools, and focused internet products.</strong>
   <br />
