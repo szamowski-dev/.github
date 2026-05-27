@@ -17,36 +17,20 @@
 
 ## What we build
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Native apps</h3>
-      <p>macOS and Apple-platform software with a strong focus on speed, ergonomics, and platform conventions.</p>
-    </td>
-    <td width="50%">
-      <h3>Developer tooling</h3>
-      <p>Automation, integrations, internal tools, and workflows that remove repetitive operational work.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Product systems</h3>
-      <p>Practical product, growth, and marketing systems built around measurable iteration.</p>
-    </td>
-    <td width="50%">
-      <h3>Experiments</h3>
-      <p>Small public projects, prototypes, and focused explorations around software craft and distribution.</p>
-    </td>
-  </tr>
-</table>
+- **Native apps** - macOS and Apple-platform software with a strong focus on speed, ergonomics, and platform conventions.
+- **Developer tooling** - automation, integrations, internal tools, and workflows that remove repetitive operational work.
+- **Product systems** - practical product, growth, and marketing systems built around measurable iteration.
+- **Experiments** - small public projects, prototypes, and focused explorations around software craft and distribution.
 
 ## Featured project
 
 <table>
   <tr>
     <td width="72%">
-        <img alt="hora Calendar app icon" src="https://horacal.app/assets/hora-icon-512.png" width="58">
-        <img alt="Calendar" src="https://horacal.app/assets/email/calendar-wordmark@2x.png" width="220">
+      <p>
+        <a href="https://horacal.app"><img align="center" alt="hora Calendar app icon" src="https://horacal.app/assets/hora-icon-512.png" width="58"></a>
+        <a href="https://horacal.app"><img align="center" alt="Calendar" src="https://horacal.app/assets/email/calendar-wordmark@2x.png" width="220"></a>
+      </p>
       <p>A native macOS Google Calendar client built with SwiftUI.</p>
       <p>
         Designed for keyboard-first calendar work, fast navigation, polished native interaction, and a minimal interface that stays out of the way.
