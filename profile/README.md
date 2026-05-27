@@ -47,10 +47,8 @@
 <table>
   <tr>
     <td width="72%">
-      <a href="https://horacal.app">
-        <img alt="hora Calendar app icon" src="https://horacal.app/assets/hora-icon-512.png" width="72">
+        <img alt="hora Calendar app icon" src="https://horacal.app/assets/hora-icon-512.png" width="58">
         <img alt="Calendar" src="https://horacal.app/assets/email/calendar-wordmark@2x.png" width="220">
-      </a>
       <p>A native macOS Google Calendar client built with SwiftUI.</p>
       <p>
         Designed for keyboard-first calendar work, fast navigation, polished native interaction, and a minimal interface that stays out of the way.
