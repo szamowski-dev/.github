@@ -28,8 +28,7 @@
   <tr>
     <td width="72%">
       <p>
-        <a href="https://horacal.app"><img align="center" alt="hora Calendar app icon" src="https://horacal.app/assets/hora-icon-512.png" width="58"></a>
-        <a href="https://horacal.app"><img align="center" alt="Calendar" src="https://horacal.app/assets/email/calendar-wordmark@2x.png" width="220"></a>
+        <a href="https://horacal.app"><img align="center" alt="hora Calendar app icon" src="https://lh3.googleusercontent.com/d/1syD9_t4G2hdyQK26HmYMIAM1Rcc7KrsN" width="250"></a>
       </p>
       <p>A native macOS Google Calendar client built with SwiftUI.</p>
       <p>
